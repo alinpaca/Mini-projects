@@ -1,1 +1,1 @@
-# sliderule_dsi_json_exercise
+# This repository contains Springboard Data Sci Track exercises and projects.

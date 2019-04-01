@@ -1,1 +1,1 @@
-# This repository contains Springboard Data Sci Track exercises and projects.
+# This repository contains data science-related exercises and projects.
